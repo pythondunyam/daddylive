@@ -15,7 +15,7 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
 ## docker-compose
 1. Clone the repository
    ```bash
-   git clone https://github.com/pigzillaaaaa/daddylive
+   git clone https://github.com/pythondunyam/daddylive
    cd daddylive
    ```
 2. Launch the service:
@@ -27,15 +27,4 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
    http://localhost:7860  
 4. Channels playlist is accessible via: **http://localhost:7860/playlist/channels**. (Refresh playlist from your iptv player to update)</br>
    Events playlist is accessible via: **http://localhost:7860/playlist/events**. (Refresh playlist from your iptv player to update)
-5. Enjoy! (For arm cpus, visit https://github.com/pigzillaaaaa/daddylive/issues/10)
-
-
-
-## tip
-
-<p align="left">
-  <a href="https://ko-fi.com/pigzillaaaaa" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee" style="height:50px;" />
-  </a>
-</p>
-Join our discord: https://discord.gg/aVuhm62hFU (#iptv)
+5. Enjoy! (For arm cpus, visit https://github.com/pigzillaaaaa/pythondunyam/issues/10)
